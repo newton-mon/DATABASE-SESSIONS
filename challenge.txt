@@ -1,0 +1,28 @@
+🎬 Movie Database Challenge
+
+Build and query a simple database about movies, actors.
+
+Create two tables: Movies  and Actors. 
+
+
+📝 Table Structures:
+
+ Actors Table 🌟
+
+id: A unique ID for each actor 🎭
+
+name: The actor’s name ✨
+
+age: The actor's age 🎂
+
+
+
+
+
+Movies Tables 🎥
+
+id: A unique ID for each movie 🎟️
+
+title: The name of the movie 🎬
+
+Year: The release year of the movie📅
